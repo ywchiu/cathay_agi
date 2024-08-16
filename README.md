@@ -6,6 +6,10 @@
 - 上傳區：https://forms.gle/SHpYQYkETirN9WCi6
 - 投票區：https://forms.gle/EHGYxXvQXeEyK4w26
 
+### 練習題二
+- 上傳區：https://forms.gle/w7hFYyGp5rNqgUgj7
+- 投票區：https://forms.gle/EHGYxXvQXeEyK4w26
+
 ## 提示詞工程
 
 ### 基本提示詞
