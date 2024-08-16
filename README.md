@@ -7,7 +7,7 @@
 - 投票區：https://forms.gle/EHGYxXvQXeEyK4w26
 
 ### 練習題二
-- 上傳區：https://forms.gle/w7hFYyGp5rNqgUgj7
+- 上傳區：https://forms.gle/BHaYbvpCvrffSckR8
 - 投票區：https://forms.gle/EHGYxXvQXeEyK4w26
 
 ## 提示詞工程
