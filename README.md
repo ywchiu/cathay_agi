@@ -8,7 +8,7 @@
 
 ### 練習題二
 - 上傳區：https://forms.gle/BHaYbvpCvrffSckR8
-- 投票區：https://forms.gle/EHGYxXvQXeEyK4w26
+- 投票區：[https://forms.gle/EHGYxXvQXeEyK4w26](https://docs.google.com/forms/d/e/1FAIpQLScrKnGp4zcoaEwaEzVWGv9uBYq9pNJdBp5WCp1ww4NX7mRb5w/viewform)
 
 ## 提示詞工程
 
