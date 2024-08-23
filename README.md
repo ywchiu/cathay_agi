@@ -2,13 +2,13 @@
 
 ## 練習題 
 
-### 練習題一
-- 上傳區：https://forms.gle/SHpYQYkETirN9WCi6
-- 投票區：https://forms.gle/EHGYxXvQXeEyK4w26
+### 練習題三
+- 上傳區：https://forms.gle/kUhCPagM1wRVau8u9
+- 投票區：https://forms.gle/cm3aKYjLz2JcUoJa9
 
-### 練習題二
-- 上傳區：https://forms.gle/BHaYbvpCvrffSckR8
-- 投票區：[https://forms.gle/EHGYxXvQXeEyK4w26](https://docs.google.com/forms/d/e/1FAIpQLScrKnGp4zcoaEwaEzVWGv9uBYq9pNJdBp5WCp1ww4NX7mRb5w/viewform)
+### 練習題四
+- 上傳區：
+- 投票區：
 
 ## 提示詞工程
 
