@@ -7,8 +7,8 @@
 - 投票區：https://forms.gle/cm3aKYjLz2JcUoJa9
 
 ### 練習題四
-- 上傳區：
-- 投票區：
+- 上傳區：https://forms.gle/GtFX1eSvgJz4vcgv5
+- 投票區：https://forms.gle/zVrYVs6pHf7petqn7
 
 ## 提示詞工程
 
