@@ -1,15 +1,5 @@
 # 從ChatGPT到AIGC的應用與實踐課程 
 
-## 練習題 
-
-### 練習題三
-- 上傳區：https://forms.gle/kUhCPagM1wRVau8u9
-- 投票區：https://forms.gle/cm3aKYjLz2JcUoJa9
-
-### 練習題四
-- 上傳區：https://forms.gle/GtFX1eSvgJz4vcgv5
-- 投票區：https://forms.gle/zVrYVs6pHf7petqn7
-
 ## 提示詞工程
 
 ### 基本提示詞
@@ -33,7 +23,10 @@
 - https://claude.ai/chats
 
 ### Gemini
-- https://aistudio.google.com/app/ 
+- https://aistudio.google.com/app/
+
+### Napkin.ai
+- https://www.napkin.ai/
 
 ## Assitant API 範例
 - https://colab.research.google.com/drive/1NF_5bKg5vgj4jNs3q-GUCHPzA9fJmvdb#scrollTo=RMfyqDWZsKdC
